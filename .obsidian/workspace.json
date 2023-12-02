@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "dfc918f8fadf8b11",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bf31688d85689f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abd50409a4653309",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36fad90d41acf116",
+    "type": "split",
+    "children": [
+      {
+        "id": "b51e8c8790545f43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f61e247629556a94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60bc522b03fa07d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2aeabf9741886ae2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54fa7de8e9c849c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "36ed4ea48dc95ba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d282212d870a767",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c6177de9f460271",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c561a9806bc7542d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccf7eab838ea851b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "abd50409a4653309",
+  "lastOpenFiles": [
+    "Plurality Institute.md",
+    "Mit Center For Constructive Communication.md",
+    "Moda.md",
+    "Glen Weyl.md",
+    "Aviv Ovadya.md",
+    "Microsoft Plural Technology Collabratory.md",
+    "Beth Noveck.md",
+    "Cultural Bridging.md",
+    "Mike Jordan.md",
+    "Tech For Social Cohesion.md",
+    "Political Science.md",
+    "Collective Intelligence Project.md",
+    "Colin Megil.md",
+    "Political Ethics.md",
+    "James Evans.md",
+    "Delliberation and Sence Making.md",
+    "Gov Lab.md",
+    "Git Coin.md",
+    "Decentralized Society (DeSoc).md",
+    "Computational Democracy Project.md",
+    "Disciplines.md",
+    "Ethics.md",
+    "Braver Angels.md",
+    "Madelline.md",
+    "Peace Keeping.md",
+    "Audrey Tang.md",
+    "Templates"
+  ]
+}
