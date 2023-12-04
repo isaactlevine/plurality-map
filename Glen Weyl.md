@@ -1,6 +1,13 @@
-[[Radical X Change]]
-
-#person 
+---
+Location: 
+tags:
+  - person
+---
+| Org                                          | Role                  |
+| -------------------------------------------- | --------------------- |
+| [[Plurality Institute]]                      | Founder, Board Member |
+| [[Microsoft Plural Technology Collabratory]] | Founder, Lead         |
+| [[Radical X Change]]                         | Founder, Board Member                      |
 
 
 ### Works On
@@ -8,7 +15,3 @@
 [[Economics]]
 [[Identity]]
 
-### Orgs
-
-Co-Founder: [[Plurality Institute]]
-Co-Founder: [[Microsoft Plural Technology Collabratory]]

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colin Megil.md",
+                "file": "Glen Weyl.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colin Megil.md",
+                "file": "Glen Weyl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colin Megil.md",
+                "file": "Glen Weyl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colin Megil.md"
+                "file": "Glen Weyl.md"
               }
             }
           },
@@ -183,6 +183,8 @@
   },
   "active": "0332f87743b9b508",
   "lastOpenFiles": [
+    "Economics.md",
+    "Colin Megil.md",
     "Citizen Assemblies.md",
     "Beth Noveck.md",
     "Berkeley.md",
@@ -207,8 +209,6 @@
     "Mike Jordan.md",
     "Tech For Social Cohesion.md",
     "Political Science.md",
-    "Collective Intelligence Project.md",
-    "Colin Megil.md",
     "Templates"
   ]
 }
