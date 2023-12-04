@@ -6,7 +6,7 @@
 
 ### Leadership
 
-[[Beth Noveck]]
+Founder: [[Beth Noveck]]
 
 ### Funder
 
