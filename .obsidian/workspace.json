@@ -75,14 +75,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plurality Institute.md",
+                "file": "Collective Intelligence Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f815523ee6b22b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edward Casternova.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9a2c4140783f73c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Publication Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf58245321935404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Maps/People.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -148,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plurality Institute.md",
+                "file": "_Maps/People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plurality Institute.md",
+                "file": "_Maps/People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plurality Institute.md"
+                "file": "_Maps/People.md"
               }
             }
           },
@@ -229,12 +265,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48b60835b424d5a9",
+  "active": "bf58245321935404",
   "lastOpenFiles": [
-    "Glen Weyl.md",
-    "Templates/University Template.md",
+    "_Maps/Organizations.md",
+    "_Maps/People.md",
     "Templates/Topic Template.md",
     "Templates/Person Template.md",
+    "Metaphor.md",
+    "Templates/Publication Template.md",
+    "Virtual Economies.md",
+    "Edward Casternova.md",
+    "Collective Intelligence Project.md",
+    "Untitled.md",
+    "GETTING Plurality.md",
+    "_Maps",
+    "Foresight Institute.md",
+    "Governance.md",
+    "Plurality Institute.md",
+    "Glen Weyl.md",
+    "Templates/University Template.md",
     "Templates/Org Template.md",
     "Aviv Ovadya.md",
     "Braver Angels.md",
@@ -245,18 +294,6 @@
     "John Etchemendy.md",
     "Together.AI.md",
     "Shrey Jain.md",
-    "Stability.AI.md",
-    "Cohere.md",
-    "Teddy Collins.md",
-    "Deb Roy.md",
-    "Economics.md",
-    "Colin Megil.md",
-    "Citizen Assemblies.md",
-    "Berkeley.md",
-    "Project Liberty.md",
-    "Bruce Schneider.md",
-    "Gov Lab.md",
-    "Templates/Untitled.md",
     "Templates"
   ]
 }
