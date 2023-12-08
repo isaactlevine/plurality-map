@@ -1,5 +1,5 @@
 ---
-Location: 
+Location: Boston, MA
 tags:
   - person
 ---

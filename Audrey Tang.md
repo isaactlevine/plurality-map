@@ -1,11 +1,15 @@
 ---
-Location: 
+Location: Taiwan
 tags:
   - person
 ---
+### Orgs
+
+| Org                     | Role               |
+| ----------------------- | ------------------ |
+| [[Plurality Institute]] | Steering Committee |
+| [[Moda]]                        |                    |
+
 ### Works On
 
-[[Moda]]
-Steering Committee: [[Plurality Institute]]
 
-### Orgs

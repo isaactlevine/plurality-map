@@ -1,4 +1,8 @@
-#org
+---
+Location: San Francisco, CA
+tags:
+  - org
+---
 
 ### Works On
 
@@ -14,11 +18,11 @@
 	[[Lisa Schirk]]
 	[[Mike Jordan]]
 
+#### Advisors
+	
+	[[Aviv Ovadya]]
+	[[Colin Megil]]
 
-### Advisors
-
-[[Aviv Ovadya]]
-[[Colin Megil]]
 
 ### Funder
 
