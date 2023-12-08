@@ -26,15 +26,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glen Weyl.md",
+                "file": "Deb Roy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "287da1bf29211544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shrey Jain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9780daffc905b57e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Together.AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0482957b533fa6ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "John Etchemendy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -100,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glen Weyl.md",
+                "file": "John Etchemendy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glen Weyl.md",
+                "file": "John Etchemendy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glen Weyl.md"
+                "file": "John Etchemendy.md"
               }
             }
           },
@@ -181,8 +217,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0332f87743b9b508",
+  "active": "0482957b533fa6ce",
   "lastOpenFiles": [
+    "Together.AI.md",
+    "John Etchemendy.md",
+    "Shrey Jain.md",
+    "Stability.AI.md",
+    "Cohere.md",
+    "Teddy Collins.md",
+    "Deb Roy.md",
+    "Glen Weyl.md",
     "Economics.md",
     "Colin Megil.md",
     "Citizen Assemblies.md",
@@ -201,14 +245,6 @@
     "Untitled 1.md",
     "Plurality Institute.md",
     "Mit Center For Constructive Communication.md",
-    "Moda.md",
-    "Glen Weyl.md",
-    "Aviv Ovadya.md",
-    "Microsoft Plural Technology Collabratory.md",
-    "Cultural Bridging.md",
-    "Mike Jordan.md",
-    "Tech For Social Cohesion.md",
-    "Political Science.md",
     "Templates"
   ]
 }

@@ -1,3 +1,14 @@
-[[Microsoft Plural Technology Collabratory]]
+---
+Location: 
+tags:
+  - person
+---
+| Org | Role |
+| --- | ---- |
+|[[Microsoft Plural Technology Collabratory]]     |      |
+
+### Works On
 
 Works on [[Data Privacy]]
+
+
