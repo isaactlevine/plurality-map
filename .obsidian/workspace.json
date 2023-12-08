@@ -116,9 +116,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d643ab7721dcec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Margaret Levi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b05aa6532a9d7cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rob Reich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6a1367e7a01fd2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Percy Liang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -184,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Maps/People.md",
+                "file": "Percy Liang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Maps/People.md",
+                "file": "Percy Liang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Maps/People.md"
+                "file": "Percy Liang.md"
               }
             }
           },
@@ -265,10 +301,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf58245321935404",
+  "active": "a6a1367e7a01fd2d",
   "lastOpenFiles": [
-    "_Maps/Organizations.md",
+    "Human-Centered Artificial Intelligence (HAI).md",
+    "Percy Liang.md",
+    "Rob Reich.md",
+    "Margaret Levi.md",
     "_Maps/People.md",
+    "_Maps/Organizations.md",
     "Templates/Topic Template.md",
     "Templates/Person Template.md",
     "Metaphor.md",
@@ -290,10 +330,6 @@
     "Audrey Tang.md",
     "AI Ethics.md",
     "Collaborative Civic Tech.md",
-    "Beth Noveck.md",
-    "John Etchemendy.md",
-    "Together.AI.md",
-    "Shrey Jain.md",
     "Templates"
   ]
 }
