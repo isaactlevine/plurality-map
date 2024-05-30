@@ -1,3 +1,0 @@
-[[Stanford]]
-
-Sponsored: [[MetaGov]]

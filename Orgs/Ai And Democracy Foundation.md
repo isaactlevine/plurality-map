@@ -21,4 +21,4 @@ Collaborates with philanthropic organizations, AI organizations, civil society, 
 
 ### Links
 - [Reimagining Technology newsletter](https://reimagine.aviv.me)
-- [https://ai-dem.org/](ai-dem.org)
+- [Website](ai-dem.org)
