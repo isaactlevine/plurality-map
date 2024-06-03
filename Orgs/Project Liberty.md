@@ -3,7 +3,7 @@ Location: USA
 tags:
   - org
 ---
-# Project Liberty
+#org
 
 ### Works On
 Project Liberty aims to reclaim control of digital lives by developing a better internet where data is managed by individuals, platforms are governed by users, and power is distributed equitably. They focus on digital self-determination, digital citizenship, and digital ownership.

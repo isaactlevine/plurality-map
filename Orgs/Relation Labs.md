@@ -3,7 +3,7 @@ Location: USA
 tags:
   - org
 ---
-# Relation Labs
+#org
 
 ### Works On
 Relation Labs focuses on building a decentralized social graph protocol called Relation Protocol. Their work includes enabling Semantic SBTs, enhancing data sovereignty, promoting interoperability between social networks, and ensuring privacy and security.

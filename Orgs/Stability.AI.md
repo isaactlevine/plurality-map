@@ -3,7 +3,7 @@ Location: USA
 tags:
   - org
 ---
-# Stability AI
+#org
 
 ### Works On
 Stability AI is the world’s leading open-source generative AI company. They focus on developing AI models for imaging, language, code, and audio with minimal resource requirements. Key areas include:

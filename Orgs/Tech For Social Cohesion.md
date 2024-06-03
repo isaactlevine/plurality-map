@@ -3,7 +3,7 @@ Location: USA
 tags:
   - org
 ---
-# Council on Technology and Social Cohesion
+#org
 
 ### Works On
 The Council on Technology and Social Cohesion focuses on designing technology that strengthens social bonds and enables collaborative problem-solving on pressing policy issues. 

@@ -3,7 +3,7 @@ Location: USA
 tags:
   - org
 ---
-# RadicalxChange
+#org
 
 ### Works On
 RadicalxChange focuses on democratic innovation and institutional design. Their work includes research on decision-making systems, developing open-source technologies, forming partnerships with various institutions, and educating the public to foster a culture of plural innovation and democratic revitalization.
