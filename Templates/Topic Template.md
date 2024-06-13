@@ -4,19 +4,13 @@ tags:
 ---
 #topic
 
-### Orgs
+### Key Resources
 
 
 ### People
 
 
-### Related concepts
-
-
-### Related Projects
-
-
-### Related Publications
+### Related Orgs, Projects, Publications
 
 
 ### Links
