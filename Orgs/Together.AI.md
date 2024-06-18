@@ -3,7 +3,7 @@ Location: USA
 tags:
   - org
 ---
-# Together AI
+#org
 
 ### Works On
 Together AI is a research-driven AI company focused on developing and deploying open-source AI models and datasets. Their key focus areas include:
@@ -20,13 +20,13 @@ Together AI is a research-driven AI company focused on developing and deploying 
 - FOUNDING ENGINEER: Justin Foutts
 
 ### Funder
-- Not explicitly listed.
+
 
 ### Affiliates
 - Partners: MongoDB, LangChain, EmbedChain, LlamaIndex, NVIDIA, Hugging Face, Crusoe, Nous Research, SambaNova, Snorkel, Meta, Pinecone, Center for Research on Foundation Models, and more.
 
 ### Related Events
-- Not explicitly listed.
+
 
 ### Links
 - [Together AI](https://together.ai)

@@ -1,3 +1,0 @@
-### Orgs
-
-[[MetaGov]]

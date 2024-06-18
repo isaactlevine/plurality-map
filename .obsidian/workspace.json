@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Dataset Template.md",
+                "file": "People/Colin Megil.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Dataset Template.md",
+                "file": "People/Colin Megil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Dataset Template.md",
+                "file": "People/Colin Megil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Dataset Template.md"
+                "file": "People/Colin Megil.md"
               }
             }
           },
@@ -171,41 +171,41 @@
   },
   "active": "f61e247629556a94",
   "lastOpenFiles": [
-    "Topic/Quadratic Voting.md",
-    "People/Madeleine Daepp.md",
-    "Madeleine Daepp.md",
+    "Tools/QuadraticVoteCo.md",
+    "Tools/Wildcards.md",
+    "Tools/Valyu_Exchange.md",
+    "Tools/This_Artwork_Is_Always_On_Sale.md",
+    "Tools/Sheets_Template_for_Quadratic_Voting.md",
+    "Tools/RxC_QV.md",
+    "Tools/Relation.md",
+    "Tools/QuadraticVote.co.md",
+    "Tools/Quadratic_Moloch_DAO_Democracy_Earth.md",
+    "Tools/Pool.md",
+    "Tools/Optimism.md",
+    "Tools/OpenMined.md",
+    "Tools/Ocean_Protocol.md",
+    "Tools/Nonomos.md",
+    "Tools/Municipal_Quadratic_Funding_Initiative.md",
+    "Tools/Maskbook.md",
+    "Tools/Idena.md",
+    "Tools/Harberger_Ads.md",
+    "Tools/Government_Technology_Agency_(Singapore).md",
+    "Tools/Goldfinch.md",
+    "Tools/Gitcoin_Grants.md",
+    "Tools/Geo_Web.md",
+    "Tools/Ğ1_Currency.md",
+    "Tools/Eden_Network.md",
+    "Tools/CultureStake_Furtherfield.md",
+    "Tools/Clr.fund.md",
+    "Policies",
+    "Datasets",
     "Publication",
     "Public",
-    "Subjects/Social Psych.md",
-    "Tools/Metaphor.md",
-    "Subjects/Disciplines.md",
-    "Topic/DAO.md",
-    "Topic/Voting Inovation.md",
-    "Topic/Urban Development.md",
-    "Topic/Virtual Economies.md",
-    "Topic/Web3.md",
-    "Subjects/Computer Science.md",
-    "Subjects/Economics.md",
-    "Subjects/Ethics.md",
-    "Subjects/Governance.md",
-    "Subjects/Government.md",
-    "Subjects/Political Ethics.md",
-    "Subjects/Political Science.md",
-    "Subjects/Sociology.md",
     "Subjects",
-    "Topic/Plurality.md",
-    "Topic/Web3 For Humanity.md",
-    "Topic/Sociology of Science.md",
-    "Orgs/Plurality Institute.md",
-    "University/Berkeley.md",
-    "University/Northeastern University.md",
-    "University/University of Colorado.md",
     "University",
     "Templates/University",
     "Tools",
     "Topic",
-    "People/Topic",
-    "_Maps",
-    "Templates"
+    "People/Topic"
   ]
 }

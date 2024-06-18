@@ -3,25 +3,27 @@ Location: San Francisco, CA
 tags:
   - org
 ---
+#org
 
 ### Works On
 
 
 ### Leadership
-	[[Rose Bloomin]]
+
+[[Rose Bloomin]]
 
 ##### Steering Comittee
-	[[Audrey Tang]]
-	[[Glen Weyl]]
-	[[James Evans]]
-	[[Daniel Allen]]
-	[[Lisa Schirk]]
-	[[Mike Jordan]]
+[[Audrey Tang]]
+[[Glen Weyl]]
+[[James Evans]]
+[[Daniel Allen]]
+[[Lisa Schirk]]
+[[Mike Jordan]]
 
 #### Advisors
 	
-	[[Aviv Ovadya]]
-	[[Colin Megil]]
+[[Aviv Ovadya]]
+[[Colin Megil]]
 
 
 ### Funder

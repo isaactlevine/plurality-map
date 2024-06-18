@@ -15,11 +15,6 @@ The Council on Technology and Social Cohesion focuses on designing technology th
 - Co-Chairs: Lisa Schirch, Ravi Iyer, Lena Slachmuijlder
 - Steering Committee Members: Antonella Guidoccio, Caleb Gichuhi, Camille Carlton, Deepti Doshi, Devika Malik, Helena Puig Larrauri, Jonathan Stray, Julia Kamin, Laure X Cast, Michele Giovanardi, Sean Wang, Paul Heidebrecht
 
-### Funder
-- Supported by a diverse group of partners including Build Up, CHAI, Center for Humane Technology, Civic Health Project, EUI/Global Peacetech Hub, and more.
-
-### Affiliates
-
 
 ### Related Events
 - Conference on Designing Tech for Social Cohesion (February 2023)
