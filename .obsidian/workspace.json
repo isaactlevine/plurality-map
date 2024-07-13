@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1246672e47cc4d39",
+        "id": "31d6d003ba0e80fa",
         "type": "tabs",
         "children": [
           {
-            "id": "56fb80ed589b28c8",
+            "id": "b9f2b4ee93e9d1d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Colin Megil.md",
+                "file": "👥 Organizations & Companies/g0v.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#topic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "54fa7de8e9c849c8",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Colin Megil.md",
+                "file": "👥 Organizations & Companies/g0v.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Colin Megil.md",
+                "file": "👥 Organizations & Companies/g0v.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Colin Megil.md"
+                "file": "👥 Organizations & Companies/g0v.md"
               }
             }
           },
@@ -166,46 +166,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f61e247629556a94",
+  "active": "b9f2b4ee93e9d1d4",
   "lastOpenFiles": [
-    "todo.md",
-    "Tools/QuadraticVoteCo.md",
-    "Tools/Wildcards.md",
-    "Tools/Valyu_Exchange.md",
-    "Tools/This_Artwork_Is_Always_On_Sale.md",
-    "Tools/Sheets_Template_for_Quadratic_Voting.md",
-    "Tools/RxC_QV.md",
-    "Tools/Relation.md",
-    "Tools/QuadraticVote.co.md",
-    "Tools/Quadratic_Moloch_DAO_Democracy_Earth.md",
-    "Tools/Pool.md",
-    "Tools/Optimism.md",
-    "Tools/OpenMined.md",
-    "Tools/Ocean_Protocol.md",
-    "Tools/Nonomos.md",
-    "Tools/Municipal_Quadratic_Funding_Initiative.md",
-    "Tools/Maskbook.md",
-    "Tools/Idena.md",
-    "Tools/Harberger_Ads.md",
-    "Tools/Government_Technology_Agency_(Singapore).md",
-    "Tools/Goldfinch.md",
-    "Tools/Gitcoin_Grants.md",
-    "Tools/Geo_Web.md",
-    "Tools/Ğ1_Currency.md",
-    "Tools/Eden_Network.md",
-    "Tools/CultureStake_Furtherfield.md",
-    "Policies",
-    "Datasets",
-    "Publication",
-    "Public",
-    "Subjects",
-    "University",
-    "Templates/University",
-    "Tools",
-    "Topic",
-    "People/Topic"
+    "👤 People/CL Kao.md",
+    "👥 Organizations & Companies/Remesh.md",
+    "CL Kao.md",
+    "👥 Organizations & Companies/g0v.md",
+    "👤 People/Matthew Prewitt.md",
+    "💡 Topics/Condorcet Method.md",
+    "🔨 Tools/Arguman.md",
+    "🔨 Tools/Loomio.md",
+    "🎓 Universities and University Programs/University of California, Berkeley.md",
+    "👤 People/Mike Jordan.md",
+    "👤 People/Madeleine Daepp.md",
+    "👤 People/Eric A. Posner.md",
+    "👤 People/John Etchemendy.md",
+    "👤 People/Charlotte Cavaillé.md",
+    "👤 People/Bill Doherty.md",
+    "👤 People/Allison Stanger.md",
+    "👤 People/Andreas Bugler.md",
+    "👥 Organizations & Companies/Gitcoin.md",
+    "👥 Organizations & Companies/Gov Lab.md",
+    "👥 Organizations & Companies/Gov4Git Foundation.md",
+    "👥 Organizations & Companies/Laboratory for Social Machines.md",
+    "👥 Organizations & Companies/Cortico.md",
+    "👥 Organizations & Companies/Collective Intelligence Project.md",
+    "👥 Organizations & Companies/Ethereum Foundation.md",
+    "👥 Organizations & Companies/Cohere.md",
+    "👥 Organizations & Companies/Liquid Democracy eV.md",
+    "🔨 Tools/Liquid",
+    "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/REQUESTED",
+    "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/INSTALLER",
+    "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__/function_parameters.cpython-39.pyc",
+    "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__/function_definition.cpython-39.pyc",
+    "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__/__init__.cpython-39.pyc",
+    "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__",
+    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/function_parameters.cpython-39.pyc",
+    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/function_definition.cpython-39.pyc",
+    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/error_object.cpython-39.pyc"
   ]
 }

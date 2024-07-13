@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "table-editor-obsidian",
-  "dataview"
+  "dataview",
+  "templater-obsidian",
+  "obsidian-icon-folder"
 ]
