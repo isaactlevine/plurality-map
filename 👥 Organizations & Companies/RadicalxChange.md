@@ -23,7 +23,7 @@ RadicalxChange focuses on democratic innovation and institutional design. Their 
 
 ### Leadership
 - Board Members: [[Glen Weyl]], [[Vitalik Buterin]], [[Audrey Tang]], Christopher Kulendran Thomas, Anne-Marie Slaughter
-- President: [[Matt Prewitt]]
+- President: [[Matthew Prewitt]]
 - Technical Director: Alex Randaccio
 - Director of Media and Partnerships: Angela Corpus
 - Chief Operating Officer: Paula Berman

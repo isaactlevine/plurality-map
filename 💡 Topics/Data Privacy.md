@@ -22,7 +22,7 @@ Various technological and social mechanisms can support contextual integrity, su
 
 ### Related Orgs, Projects, Publications
 
-[[Microsoft Plural Technology Collabratory]]  
+[[Microsoft Plural Technology Collaboratory]]  
 
 ### Related Topics
 

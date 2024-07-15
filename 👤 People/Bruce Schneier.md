@@ -5,14 +5,14 @@ tags:
 ---
 #person
 
-| Org                                               | Role                              |
-| ------------------------------------------------- | --------------------------------- |
-| Harvard Kennedy School                            | Adjunct Lecturer in Public Policy |
-| [[Berkman Klein Center for Internet and Society]] | Fellow                            |
-| Inrupt, Inc.                                      | Chief of Security Architecture    |
-| Electronic Frontier Foundation                    | Board Member                      |
-| AccessNow                                         | Board Member                      |
-| Tor Project                                       | Board Member                      |
+| Org                                             | Role                              |
+| ----------------------------------------------- | --------------------------------- |
+| Harvard Kennedy School                          | Adjunct Lecturer in Public Policy |
+| [[Berkman Klein Center for Internet & Society]] | Fellow                            |
+| Inrupt, Inc.                                    | Chief of Security Architecture    |
+| Electronic Frontier Foundation                  | Board Member                      |
+| AccessNow                                       | Board Member                      |
+| Tor Project                                     | Board Member                      |
 
 ### Works On
 

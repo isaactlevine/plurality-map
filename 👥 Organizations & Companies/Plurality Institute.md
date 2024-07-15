@@ -7,6 +7,11 @@ tags:
 
 ### Works On
 
+- Human cooperation and progress
+- AI-enhanced democracy
+- Web3 altruistic potential
+- Peacekeeping research
+- Cultural bridge-building initiatives
 
 ### Leadership
 
@@ -18,16 +23,30 @@ tags:
 [[Glen Weyl]]
 [[James Evans]]
 [[Danielle Allen]]
-[[Lisa Schirk]]
+[[Lisa Schirch]]
 [[Mike Jordan]]
 
 #### Advisors
-	
+
 [[Aviv Ovadya]]
-[[👤 People/Colin Megill]]
-
-
-### Funder
-
+[[Colin Megill]]
 
 ### Affiliates
+
+- [[Getting Plurality]]
+- [[Microsoft Plural Technology Collaboratory]]
+- [[New Public]]
+- [[Berkeley RDI]]
+- [[Alpha Chain]]
+- [[Kleros]]
+- [[Protocol Labs]]
+- [[Plurigrid]]
+- [[RadicalXchange]]
+- [[Relation Labs]]
+- [[Council on Technology]]
+- [[Metagovernance Project]]
+- [[Decentralization Research Center]]
+
+### Links
+
+- [Plurality Institute](https://plurality.institute)

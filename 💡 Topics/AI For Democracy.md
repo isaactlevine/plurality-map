@@ -30,7 +30,7 @@ Augmented deliberation refers to the use of AI to facilitate more constructive a
 [[Collective Intelligence Project]]
 [[GETTING Plurality]]
 [[AI And Democracy Foundation]]
-[[Microsoft Plural Technology Collabratory]]
+[[Microsoft Plural Technology Collaboratory]]
 
 ### Subjects
 
