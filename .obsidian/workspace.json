@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "31d6d003ba0e80fa",
+        "id": "6dd62155ef738dda",
         "type": "tabs",
         "children": [
           {
-            "id": "dad7fec1fff0fd4f",
+            "id": "64654a074efb9f1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "👥 Organizations & Companies/Alpha Chain.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -65,11 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 200
   },
   "right": {
     "id": "54fa7de8e9c849c8",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👥 Organizations & Companies/Alpha Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👥 Organizations & Companies/Alpha Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "👥 Organizations & Companies/Alpha Chain.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,12 +163,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dad7fec1fff0fd4f",
+  "active": "64654a074efb9f1e",
   "lastOpenFiles": [
+    "Cooperation Systems.md",
+    "👥 Organizations & Companies/Plurality Institute.md",
     "👥 Organizations & Companies/AI And Democracy Foundation.md",
+    "👥 Organizations & Companies/Collective Intelligence Project.md",
+    "🎓 Universities and University Programs/Institute for the Cooperative Digital Economy.md",
+    "💡 Topics/Collective Finance.md",
+    "graph-tag-colors.css",
+    "💡 Topics/Civic Tech & Democracy.md",
+    "💡 Topics/Civic Technology.md",
+    "🎓 Universities and University Programs/Harvard Democracy Renovation Lab.md",
+    "👤 People/Allison Duettmann.md",
+    "👥 Organizations & Companies/Alpha Chain.md",
     "👥 Organizations & Companies/AI4Impact.md",
     "👥 Organizations & Companies/Cohere.md",
-    "👥 Organizations & Companies/Collective Intelligence Project.md",
     "👥 Organizations & Companies/Citizens Foundation.md",
     "👥 Organizations & Companies/Circles.md",
     "👥 Organizations & Companies/Center for Research on Foundation Models (CRFM).md",
@@ -183,21 +186,12 @@
     "👥 Organizations & Companies/Bluesky.md",
     "👥 Organizations & Companies/Berkeley RDI.md",
     "👥 Organizations & Companies/Anthropic.md",
-    "👥 Organizations & Companies/Alpha Chain.md",
     "💡 Topics/Web3.md",
     "💡 Topics/Urban Development.md",
     "💡 Topics/Plurality.md",
     "💡 Topics/Equitable Governance.md",
     "💡 Topics/Constructive Communication.md",
     "💡 Topics/Contextualization engines.md",
-    "💡 Topics/DAOs.md",
-    "💡 Topics/Data Privacy.md",
-    "💡 Topics/Debate Mapping.md",
-    "👤 People/Wes Chao.md",
-    "👤 People/Zoë Hitzig.md",
-    "👤 People/Vitalik Buterin.md",
-    "👤 People/Uri Wilensky.md",
-    "👤 People/Uma Viswanathan.md",
     "🔨 Tools/Liquid",
     "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/REQUESTED",
     "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/INSTALLER",
@@ -206,7 +200,6 @@
     "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__/__init__.cpython-39.pyc",
     "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__",
     "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/function_parameters.cpython-39.pyc",
-    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/function_definition.cpython-39.pyc",
-    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/error_object.cpython-39.pyc"
+    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/function_definition.cpython-39.pyc"
   ]
 }

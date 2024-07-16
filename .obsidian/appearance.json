@@ -1,4 +1,8 @@
 {
   "accentColor": "#9f75ff",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "graph-tag-colors"
+  ],
+  "translucency": false
 }

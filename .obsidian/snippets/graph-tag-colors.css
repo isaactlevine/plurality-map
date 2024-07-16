@@ -1,0 +1,24 @@
+/* Base style for all tagged nodes */
+.graph-view.color-fill-tag {
+    opacity: 0.9;
+  }
+  
+  /* Nodes tagged with #org */
+  .graph-view.color-fill-tag[data-tag="org"] {
+    color: #3498db;  /* Blue */
+  }
+  
+  /* Nodes tagged with #person */
+  .graph-view.color-fill-tag[data-tag="person"] {
+    color: #e74c3c;  /* Red */
+  }
+  
+  /* Nodes tagged with #university */
+  .graph-view.color-fill-tag[data-tag="university"] {
+    color: #9b59b6;  /* Purple */
+  }
+  
+  /* Nodes tagged with #topic */
+  .graph-view.color-fill-tag[data-tag="topic"] {
+    color: #2ecc71;  /* Green */
+  }
