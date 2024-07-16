@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👤 People/Stefaan Verhulst.md",
+                "file": "👥 Organizations & Companies/Alpha Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👤 People/Stefaan Verhulst.md",
+                "file": "👥 Organizations & Companies/Alpha Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👤 People/Stefaan Verhulst.md",
+                "file": "👥 Organizations & Companies/Alpha Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👤 People/Stefaan Verhulst.md"
+                "file": "👥 Organizations & Companies/Alpha Chain.md"
               }
             }
           },
@@ -172,32 +172,32 @@
   },
   "active": "dad7fec1fff0fd4f",
   "lastOpenFiles": [
-    "👤 People/Shrey Jain.md",
-    "👤 People/Rose Bloomin.md",
-    "👤 People/Rob Reich.md",
-    "👤 People/Nicole Immorlica.md",
-    "👤 People/Richard L. Hasen.md",
-    "👤 People/Rachel Rose O’Leary.md",
-    "👤 People/Percy Liang.md",
-    "👤 People/Puja Ohlhaver.md",
-    "👤 People/Primavera Di Philipe.md",
-    "👤 People/Nathan Schneider.md",
-    "👤 People/Mike Jordan.md",
-    "👤 People/Megan Lister.md",
-    "👤 People/Matthew Prewitt.md",
-    "👤 People/Margaret Levi.md",
-    "👤 People/Madeleine Daepp.md",
-    "👤 People/Luis Sanchez.md",
-    "👤 People/Lisa Schirch.md",
-    "👤 People/Kevin Owocki.md",
-    "👤 People/Kinney Zalesne.md",
-    "👤 People/Juan Benet.md",
-    "👤 People/Kenneth Arrow.md",
-    "👤 People/Katrina Ligett.md",
-    "👤 People/Katherine Maher.md",
-    "👤 People/Jon X. Eguia.md",
-    "👤 People/John Etchemendy.md",
-    "👤 People/Jamie Joyce.md",
+    "👥 Organizations & Companies/AI And Democracy Foundation.md",
+    "👥 Organizations & Companies/AI4Impact.md",
+    "👥 Organizations & Companies/Cohere.md",
+    "👥 Organizations & Companies/Collective Intelligence Project.md",
+    "👥 Organizations & Companies/Citizens Foundation.md",
+    "👥 Organizations & Companies/Circles.md",
+    "👥 Organizations & Companies/Center for Research on Foundation Models (CRFM).md",
+    "👥 Organizations & Companies/Braver Angels.md",
+    "👥 Organizations & Companies/Bluesky.md",
+    "👥 Organizations & Companies/Berkeley RDI.md",
+    "👥 Organizations & Companies/Anthropic.md",
+    "👥 Organizations & Companies/Alpha Chain.md",
+    "💡 Topics/Web3.md",
+    "💡 Topics/Urban Development.md",
+    "💡 Topics/Plurality.md",
+    "💡 Topics/Equitable Governance.md",
+    "💡 Topics/Constructive Communication.md",
+    "💡 Topics/Contextualization engines.md",
+    "💡 Topics/DAOs.md",
+    "💡 Topics/Data Privacy.md",
+    "💡 Topics/Debate Mapping.md",
+    "👤 People/Wes Chao.md",
+    "👤 People/Zoë Hitzig.md",
+    "👤 People/Vitalik Buterin.md",
+    "👤 People/Uri Wilensky.md",
+    "👤 People/Uma Viswanathan.md",
     "🔨 Tools/Liquid",
     "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/REQUESTED",
     "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/INSTALLER",

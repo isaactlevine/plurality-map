@@ -9,7 +9,7 @@ tags:
 The GovLab focuses on improving people's lives by transforming governance through data, technology, and collaborative innovation. Their projects span smarter governance, data-driven criminal justice, open data, AI ethics, and people-led innovation.
 
 ### Leadership
-- Professor and Director: [[Beth Simone Noveck]]
+- Professor and Director: [[Beth Noveck]]
 - Co-Founder and Chief of R&D: [[Stefaan Verhulst]]
 
 ### Funder

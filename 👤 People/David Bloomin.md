@@ -13,7 +13,7 @@ tags:
 ### Works On
 
 - Multi-Agent Reinforcement Learning: Focused on developing AI systems in socially complex game environments at [[MettaAI]]
-- **[[Plurality Institute]]**: An interdisciplinary initiative aimed at creating the field of plurality studies to explore and scale human cooperation.
+- [[Plurality Institute]]: An interdisciplinary initiative aimed at creating the field of plurality studies to explore and scale human cooperation.
 
 ### Related Projects
 

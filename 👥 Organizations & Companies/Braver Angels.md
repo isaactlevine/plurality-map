@@ -17,11 +17,6 @@ Co-founders: [[David Blankenhorn]], [[Bill Doherty]], and [[David Lapp]]
 Partners with local alliances, community groups, and educational institutions.
 
 ### Related Events
-2024 National Convention in Kenosha, Wisconsin, June 27-29
 
 ### Links
 - [Braver Angels](https://braverangels.org/)
-- [Facebook](https://facebook.com/braverangels)
-- [Twitter](https://twitter.com/braverangels)
-- [Instagram](https://instagram.com/braverangels)
-- [YouTube](https://youtube.com/braverangels)
