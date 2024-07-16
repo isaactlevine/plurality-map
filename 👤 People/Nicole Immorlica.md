@@ -1,16 +1,26 @@
 ---
-Location: 
+Location: Cambridge, MA, USA
 tags:
   - person
 ---
-#person
+# person
 
-| Org | Role |
-| --- | ---- |
-|     |      |
+| Org                               | Role                                          |
+| --------------------------------- | --------------------------------------------- |
+| Microsoft Research                | Senior Principal Researcher, Manager of the MSR New England Economics and Computation group |
+| Northwestern University           | Assistant Professor, EECS                     |
 
 ### Works On
 
+- Economics and Computation
+- Auction Design
+- Market Design
+- Social Networks
+
 ### Related Projects
 
+- Lead of the MSR New England Economics and Computation group
+
 ### Links
+
+- [Personal Website](http://www.immorlica.com)

@@ -1,5 +1,5 @@
 # Plurality Mapping Project
-➡️ [Github](https://github.com/isaactlevine/plurality_map_project)
+➡️ [Github](https://github.com/isaactlevine/plurality-map)
 
 ## Purpose
 
@@ -41,7 +41,7 @@ This map is an evolving resource. We plan iterative improvements based on commun
 We welcome contributions from the community to help grow and improve this map of the plurality ecosystem. Here's how you can contribute:
 
 - Submit a Pull Request: To add a new node/note to the map, please submit a pull request to [our repository](https://github.com/isaactlevine/plurality-map).
-- Use Templates: When making your contribution, please refer to the [templates](https://github.com/isaactlevine/plurality_map_project/tree/main/Templates) provided in the template folder of the repository. These templates ensure consistency and provide all the necessary information for each entry.
+- Use Templates: When making your contribution, please refer to the [templates](https://github.com/isaactlevine/plurality-map/tree/main/Templates) provided in the template folder of the repository. These templates ensure consistency and provide all the necessary information for each entry.
 - Review Process: After submitting your pull request, it will be reviewed by our team. We may reach out if we need any clarifications or additional information.
 - Collaborative Refinement: Don't worry if your contribution isn't perfect. We're happy to work with you to refine and improve it as needed.
 

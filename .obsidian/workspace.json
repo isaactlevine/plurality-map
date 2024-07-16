@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9f2b4ee93e9d1d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "👥 Organizations & Companies/Plurality Institute.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dad7fec1fff0fd4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👤 People/Dimitrios Xefteris.md",
+                "file": "👤 People/Stefaan Verhulst.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👤 People/Dimitrios Xefteris.md",
+                "file": "👤 People/Stefaan Verhulst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👤 People/Dimitrios Xefteris.md",
+                "file": "👤 People/Stefaan Verhulst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👤 People/Dimitrios Xefteris.md"
+                "file": "👤 People/Stefaan Verhulst.md"
               }
             }
           },
@@ -185,32 +172,32 @@
   },
   "active": "dad7fec1fff0fd4f",
   "lastOpenFiles": [
-    "👤 People/Deepti Doshi.md",
-    "👤 People/Deb Roy.md",
-    "👤 People/David Bloomin.md",
-    "👤 People/David Lapp.md",
-    "👤 People/Daron Acemoglu.md",
-    "👤 People/David Blankenhorn.md",
-    "👤 People/Cory Doctorow.md",
-    "👤 People/Colin Megill.md",
-    "👤 People/CL Kao.md",
-    "👤 People/Aidan Gomez.md",
-    "👥 Organizations & Companies/Cohere.md",
-    "👤 People/Alessandra Casella.md",
-    "🎓 Universities and University Programs/MIT Media Lab.md",
-    "🎓 Universities and University Programs/University of Colorado.md",
-    "👥 Organizations & Companies/Metacalculus.md",
-    "👥 Organizations & Companies/Circles.md",
-    "🎓 Universities and University Programs/Institute for the Cooperative Digital Economy.md",
-    "README.md",
-    "👥 Organizations & Companies/Citizens Foundation.md",
-    "👥 Organizations & Companies/Funding The Commons.md",
-    "👥 Organizations & Companies/Open Future.md",
-    "👥 Organizations & Companies/Decentralization Research Center.md",
-    "👥 Organizations & Companies/Plurality Institute.md",
-    "👥 Organizations & Companies/EarthCommons.md",
-    "👥 Organizations & Companies/Commons Stack.md",
-    "👥 Organizations & Companies/Summer of Protocols.md",
+    "👤 People/Shrey Jain.md",
+    "👤 People/Rose Bloomin.md",
+    "👤 People/Rob Reich.md",
+    "👤 People/Nicole Immorlica.md",
+    "👤 People/Richard L. Hasen.md",
+    "👤 People/Rachel Rose O’Leary.md",
+    "👤 People/Percy Liang.md",
+    "👤 People/Puja Ohlhaver.md",
+    "👤 People/Primavera Di Philipe.md",
+    "👤 People/Nathan Schneider.md",
+    "👤 People/Mike Jordan.md",
+    "👤 People/Megan Lister.md",
+    "👤 People/Matthew Prewitt.md",
+    "👤 People/Margaret Levi.md",
+    "👤 People/Madeleine Daepp.md",
+    "👤 People/Luis Sanchez.md",
+    "👤 People/Lisa Schirch.md",
+    "👤 People/Kevin Owocki.md",
+    "👤 People/Kinney Zalesne.md",
+    "👤 People/Juan Benet.md",
+    "👤 People/Kenneth Arrow.md",
+    "👤 People/Katrina Ligett.md",
+    "👤 People/Katherine Maher.md",
+    "👤 People/Jon X. Eguia.md",
+    "👤 People/John Etchemendy.md",
+    "👤 People/Jamie Joyce.md",
     "🔨 Tools/Liquid",
     "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/REQUESTED",
     "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/INSTALLER",
