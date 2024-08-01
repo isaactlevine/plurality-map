@@ -7,12 +7,14 @@ tags:
 
 | Org               | Role                           |
 | ----------------- | ------------------------------ |
-| [[Protocol Labs]]     | Founder, CEO, Engineer         |
+| [[Protocol Labs]] | Founder, CEO, Engineer         |
 
 ### Works On
 
-- InterPlanetary File System (IPFS): A protocol to make the web faster, safer, and more open.
+- [[InterPlanetary File System]] (IPFS): A protocol to make the web faster, safer, and more open.
 - Filecoin: A cryptocurrency incentivized file storage network.
+- [[Web3]]
+- [[Public Goods Funding]]
 
 ### Related Projects
 

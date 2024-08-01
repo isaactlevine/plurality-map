@@ -8,13 +8,17 @@ tags:
 | Org                                | Role                      |
 | ---------------------------------- | ------------------------- |
 | Recce                              | Founder                   |
-| [[g0v]]                             | Co-founder                |
+| [[g0v]]                            | Co-founder                |
 
 ### Works On
 
 - Recce: Building data productivity tools, focusing on data reliability and review processes in dbt projects.
 - PipeRider: An open-source toolkit for data systems to enhance pull-request processes with impact analysis.
 - [[g0v]]: Promoting transparency of government information and developing tools for citizen participation.
+
+- [[Collaborative Civic Tech]]
+- [[Data Privacy]]
+- [[Participatory Democracy]]
 
 ### Related Projects
 

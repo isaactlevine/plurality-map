@@ -7,7 +7,11 @@ tags:
 
 ### Works On
 
-Liquid Democracy e.V. is dedicated to the development and application of innovative digital democracy tools. The non-profit organization aims to make democratic processes more participatory, transparent, and equal. They develop open-source software like [[Adhocracy]] to facilitate digital participation for NGOs, communities, citizen councils, and political organizations.
+[[Liquid Democracy eV]] is dedicated to the development and application of innovative digital democracy tools. The non-profit organization aims to make democratic processes more participatory, transparent, and equal. They develop open-source software like [[Adhocracy]] to facilitate digital participation for NGOs, communities, citizen councils, and political organizations.
+
+[[Liquid Democracy]]
+[[Participatory Democracy]]
+[[Collaborative Civic Tech]]
 
 ### Leadership
 

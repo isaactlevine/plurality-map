@@ -7,8 +7,8 @@ tags:
 
 | Org                               | Role                                          |
 | --------------------------------- | --------------------------------------------- |
-| Microsoft Research                | Senior Principal Researcher, Manager of the MSR New England Economics and Computation group |
-| Northwestern University           | Assistant Professor, EECS                     |
+| [[Microsoft Research]]            | Senior Principal Researcher, Manager of the MSR New England Economics and Computation group |
+| [[Northwestern University]]       | Assistant Professor, EECS                     |
 
 ### Works On
 
@@ -16,6 +16,9 @@ tags:
 - Auction Design
 - Market Design
 - Social Networks
+- [[Game Design]]
+- [[Plural Funding]]
+- [[Public Goods Funding]]
 
 ### Related Projects
 

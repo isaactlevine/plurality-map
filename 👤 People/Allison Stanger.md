@@ -8,22 +8,22 @@ tags:
 | Org                                      | Role                                               |
 | ---------------------------------------- | -------------------------------------------------- |
 | Middlebury College                       | Russell Leng '60 Professor of International Politics and Economics |
-| GETTING-Plurality Research Network       | Co-Director and Principal Investigator              |
-| Human-Centered AI Institute, Stanford    | Research Scholar                                   |
-| Santa Fe Institute                       | External Professor, Science Board Member           |
+| [[GETTING Plurality]]                    | Co-Director and Principal Investigator              |
+| [[Stanford University]]                  | Research Scholar at Human-Centered AI Institute    |
+| [[Santa Fe Institute]]                   | External Professor, Science Board Member           |
 
 ### Works On
 
 - International Politics and Economics
 - Technology and Human Values
-- AI Safety
+- [[AI For Democracy]]
 - Complexity Economics
 - Cybersecurity
 
 ### Related Projects
 
-- GETTING-Plurality Research Network
-- Santa Fe Institute
+- [[GETTING Plurality]]
+- [[Santa Fe Institute]]
 - Rohatyn Center for International Affairs
 
 ### Links

@@ -13,6 +13,7 @@ tags:
 
 Ğ1 is the first Free or Libre currency, introducing an innovative mechanism for money creation, delivered through sustainable blockchain technology, encouraging decentralised, community-level exchanges.
 
+[[Digital Currencies]]
+[[Decentralized Society (DeSoc)]]
+
 ### Developer
-
-

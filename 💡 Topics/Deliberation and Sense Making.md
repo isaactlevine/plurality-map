@@ -6,8 +6,6 @@ tags:
 
 ### Description
 
-Deliberation and sense-making are interconnected processes that enable individuals and communities to navigate complex societal challenges and arrive at collective decisions while embracing diversity.
-
 Deliberation involves inclusive discussion and consideration of various perspectives to gain deeper understanding. It has traditionally occurred through in-person conversations, writing, and representative processes like elections, sortition, or administration. However, there is a fundamental trade-off between the diversity of perspectives and the bandwidth of communication.
 
 Sense-making, on the other hand, roughly refers to the process of creating meaning from complex or contradictory information. 

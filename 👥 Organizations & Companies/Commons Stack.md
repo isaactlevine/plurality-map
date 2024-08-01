@@ -17,6 +17,9 @@ tags:
 - Economics Co-Design Methodology
 - Cultural Deployment Protocols for Praise
 - CommonsDAO deployment protocols
+- [[DAOs]]
+- [[Web3]]
+- [[Public Goods Funding]]
 
 ### Leadership
 - Tamara Helenius - Co-founder, Managing Director

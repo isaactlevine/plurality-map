@@ -7,8 +7,8 @@ tags:
 
 | Org                     | Role                                                   |
 | ----------------------- | ------------------------------------------------------ |
-| Cornell Tech            | Andrew H. and Ann R. Tisch Professor, Director of Digital Life Initiative |
-| Cornell University      | Professor, Information Science                         |
+| [[Cornell Tech]]        | Andrew H. and Ann R. Tisch Professor, Director of Digital Life Initiative |
+| [[Cornell University]]  | Professor, Information Science                         |
 
 ### Works On
 
@@ -21,6 +21,9 @@ tags:
 - Ethics and policy in digital systems
 - Digital media and data science
 - Trust, security, and accountability in technology
+- [[Data Privacy]]
+- [[Data Dignity]]
+- [[Constructive Communication]]
 
 ### Related Projects
 

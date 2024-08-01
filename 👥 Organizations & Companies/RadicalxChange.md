@@ -6,10 +6,10 @@ tags:
 #org
 
 ### Works On
-RadicalxChange focuses on democratic innovation and institutional design. Their work includes research on decision-making systems, developing open-source technologies, forming partnerships with various institutions, and educating the public to foster a culture of plural innovation and democratic revitalization.
+[[RadicalxChange]] focuses on democratic innovation and institutional design. Their work includes research on decision-making systems, developing open-source technologies, forming partnerships with various institutions, and educating the public to foster a culture of plural innovation and democratic revitalization.
 
 - [[Data Dignity]]
-- [[Civic Tech & Democracy]]
+- [[Collaborative Civic Tech]]
 - [[Open Questions]]
 - [[Plural Funding]]
 - [[Partial Common Ownership]]
@@ -20,6 +20,8 @@ RadicalxChange focuses on democratic innovation and institutional design. Their 
 - [[QV in NYC]]
 - [[Radical Antitrust]]
 - [[Social Identity]]
+- [[Plurality]]
+- [[Web3]]
 
 ### Leadership
 - Board Members: [[Glen Weyl]], [[Vitalik Buterin]], [[Audrey Tang]], Christopher Kulendran Thomas, Anne-Marie Slaughter

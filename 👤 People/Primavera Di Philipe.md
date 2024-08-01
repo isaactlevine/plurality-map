@@ -21,6 +21,8 @@ Primavera De Filippi's research focuses on the legal challenges and opportunitie
 [[Trust]]
 [[Internet Technology]]
 [[Law]]
+[[DAOs]]
+[[Web3]]
 
 ### Related Projects
 

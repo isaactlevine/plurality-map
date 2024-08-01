@@ -21,6 +21,10 @@ Danielle Allen's work focuses on political philosophy, ethics, public policy, de
 [[Democracy Advocacy]]
 [[Tech Ethics]]
 
+[[AI For Democracy]]
+[[Deliberation and Sense Making]]
+[[Participatory Democracy]]
+
 ### Related Projects
 
 - **Roadmap to Pandemic Resilience**: Policies adopted in federal legislation and a presidential executive order.

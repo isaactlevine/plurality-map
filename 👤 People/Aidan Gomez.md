@@ -7,16 +7,16 @@ tags:
 
 | Org           | Role                     |
 | ------------- | ------------------------ |
-| [[Cohere]]        | Co-founder and CEO       |
+| [[Cohere]]    | Co-founder and CEO       |
 | Google Brain  | Intern                   |
 | For.ai        | Research Group Leader    |
 
 ### Works On
-- Developing artificial intelligence
+- Developing [[Human-Centered Artificial Intelligence (HAI)]]
 
 ### Related Projects
 - "Attention Is All You Need" paper, introducing the transformer model.
-- Cohere, a company focused on implementing AI into business applications like chatbots and search engines.
+- [[Cohere]], a company focused on implementing AI into business applications like chatbots and search engines.
 - Cohere For AI, a program to help researchers learn machine learning techniques collaboratively.
 
 ### Links

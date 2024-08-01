@@ -8,6 +8,10 @@ tags:
 ### Works On
 Ensuring democratic capacity can keep pace with AI advances. Innovates, evaluates, and adopts deliberative, democratic, human-centered governance and alignment systems for AI. Launching in 2024.
 
+[[AI For Democracy]]
+[[Deliberation and Sense Making]]
+[[Participatory Democracy]]
+
 ### Leadership
 [[Aviv Ovadya]]
 

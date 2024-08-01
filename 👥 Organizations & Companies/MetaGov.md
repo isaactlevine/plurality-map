@@ -8,10 +8,14 @@ tags:
 ### Works On
 Metagov focuses on cultivating tools, practices, and communities that enable self-governance in the digital age. Their projects include developing governance frameworks, exploring decentralized technologies, and conducting research on digital governance.
 
+- [[Web3]]
+- [[DAOs]]
+- [[Decentralized Society (DeSoc)]]
+
 ### Leadership
 - Board: Michael Zargham, BlockScience
-- Board: Nathan Schneider, University of Colorado Boulder
-- Board: [[Primavera De Filippi]], Harvard / CNRS
+- Board: [[Nathan Schneider]], [[University of Colorado]]
+- Board: [[Primavera Di Philipe]], Harvard / CNRS
 - Board: B Cavello, [[The Aspen Institute]]
 - Board: Joshua Tan, Oxford
 - Executive Director: [[Eugene Leventhal]]

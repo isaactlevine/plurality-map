@@ -18,6 +18,10 @@ tags:
 [[Open Science]]
 [[Polis]]
 
+[[AI For Democracy]]
+[[Deliberation and Sense Making]]
+[[Participatory Democracy]]
+
 ### Related Projects
 
 - [[Polis]]: A real-time system for gathering, analyzing, and understanding what large groups of people think in their own words, enabled by advanced statistics and machine learning.

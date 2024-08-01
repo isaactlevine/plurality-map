@@ -13,6 +13,10 @@ tags:
 
 Ocean Protocol is a digital infrastructure to power the web3 data economy. It is the root for applications such as data marketplaces, crypto-secure data custody and data management, as well as easier to implement data unions, trusts, and cooperatives.
 
+[[Web3]]
+[[Data Privacy]]
+[[Data Dignity]]
+
 ### Developer
 
 

@@ -8,6 +8,10 @@ tags:
 ### Works On
 New Pluralists is a funder collaborative focused on promoting pluralism in America. They support practitioners, storytellers, researchers, and innovators working to bridge divides, build community, and foster a culture of belonging.
 
+- [[Cultural Bridging]]
+- [[Participatory Democracy]]
+
+
 ### Leadership
 - Executive Director: [[Uma Viswanathan]]
 

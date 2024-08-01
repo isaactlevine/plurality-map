@@ -13,12 +13,14 @@ tags:
 ### Works On
 Divya Siddarth is a political economist and social technologist known for their work in enabling collective intelligence for collective flourishing.
 
-- Collective Intelligence
+- [[Collective Intelligence]]
 - Technological Systems Design
 - Political Economy
 - Digital Public Infrastructure
 - Pluralistic Worlds
 - Civic Tech Movements
+- [[Participatory Democracy]]
+- [[Plurality]]
 
 ### Related Projects
 

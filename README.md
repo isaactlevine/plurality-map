@@ -1,11 +1,20 @@
 # Plurality Mapping Project
-➡️ [Github](https://github.com/isaactlevine/plurality-map)
+➡️ [Github](https://github.com/daveey/plurality-map)
 
 ## Purpose
 
 This project aims to create a comprehensive map of the Plurality ecosystem - organizations, projects, and initiatives rethinking how human collaboration happens at scale. It serves as a key infrastructure and resource for the Plurality community. 
 
 We strive to balance depth with breadth, providing a resource that highlights key players and ideas while also showcasing the field's diversity.
+
+You can browse by viewing files in the sidebar, using the global graph, or searching. To help you get started, here are a few notes you can explore:
+
+- [[Plurality Institute]]
+- [[Plurality]]
+- [[Glen Weyl]]
+- [[Adhocracy]]
+
+Feel free to start with any of these notes and follow the links that pique your interest.
 
 ## Scope
 
@@ -40,9 +49,10 @@ This map is an evolving resource. We plan iterative improvements based on commun
 
 We welcome contributions from the community to help grow and improve this map of the plurality ecosystem. Here's how you can contribute:
 
-- Submit a Pull Request: To add a new node/note to the map, please submit a pull request to [our repository](https://github.com/isaactlevine/plurality-map).
-- Use Templates: When making your contribution, please refer to the [templates](https://github.com/isaactlevine/plurality-map/tree/main/Templates) provided in the template folder of the repository. These templates ensure consistency and provide all the necessary information for each entry.
-- Review Process: After submitting your pull request, it will be reviewed by our team. We may reach out if we need any clarifications or additional information.
+- Submit via [Google Form](https://forms.gle/dhWHTKVmPqAvV5b78).
+- Submit a Pull Request: To add a new node/note to the map, please submit a pull request to [our repository](https://github.com/daveey/plurality-map).
+	- Use Templates: When making your contribution, please refer to the [templates](https://github.com/daveey/plurality-map/tree/main/Templates) provided in the template folder of the repository. These templates ensure consistency and provide all the necessary information for each entry.
+	- Review Process: After submitting your pull request, it will be reviewed by our team. We may reach out if we need any clarifications or additional information.
 - Collaborative Refinement: Don't worry if your contribution isn't perfect. We're happy to work with you to refine and improve it as needed.
 
 We are using Obsidian to host the map, so all of the files are written in markdown.

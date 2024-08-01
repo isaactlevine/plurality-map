@@ -10,7 +10,7 @@ tags:
 | Columbia University           | Professor of Economics and Political Science |
 | National Bureau of Economic Research | Fellow                             |
 | Center for Economic Policy Research | Fellow                             |
-| UC Berkeley                   | Former Assistant Professor         |
+| [[University of California, Berkeley]] | Former Assistant Professor         |
 | EHESS                         | Former Director of Studies         |
 | American Economic Review      | Board of Editors                   |
 
@@ -19,7 +19,7 @@ tags:
 - Public economics
 - Experimental economics
 - Political economy
-- Quadratic Voting
+- [[Quadratic Voting]]
 
 ### Related Projects
 

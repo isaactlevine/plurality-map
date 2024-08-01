@@ -15,6 +15,9 @@ tags:
 - [[Plurality Institute]]: An interdisciplinary initiative aimed at creating the field of plurality studies to explore and scale human cooperation.
 - Community Forward SF: Supporting women, LGBTQ individuals, elderly, and people with severe mental health or medical conditions experiencing homelessness.
 - HandUp: Direct donation system for people experiencing homelessness.
+- [[Plurality]]
+- [[Cultural Bridging]]
+- [[Participatory Democracy]]
 
 ### Related Projects
 

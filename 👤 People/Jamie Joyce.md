@@ -11,9 +11,11 @@ tags:
 
 ### Works On
 
-- Extracting and structuring arguments and evidence from media for public education (The Society Library)
-- Archiving and preserving international languages (Wikitongues)
-- Collecting and preserving U.S. government documents and records (Internet Archive)
+- Extracting and structuring arguments and evidence from media for public education ([[Society Library]])
+- Archiving and preserving international languages ([[Wikitongues]])
+- Collecting and preserving U.S. government documents and records ([[Internet Archive]])
+- [[Debate Mapping]]
+- [[Deliberation and Sense Making]]
 
 ### Related Projects
 

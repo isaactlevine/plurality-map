@@ -11,8 +11,12 @@
             "id": "64654a074efb9f1e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 419.5
   },
   "right": {
     "id": "54fa7de8e9c849c8",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -165,33 +172,34 @@
   },
   "active": "64654a074efb9f1e",
   "lastOpenFiles": [
-    "Cooperation Systems.md",
-    "👥 Organizations & Companies/Plurality Institute.md",
-    "👥 Organizations & Companies/AI And Democracy Foundation.md",
-    "👥 Organizations & Companies/Collective Intelligence Project.md",
-    "🎓 Universities and University Programs/Institute for the Cooperative Digital Economy.md",
-    "💡 Topics/Collective Finance.md",
-    "graph-tag-colors.css",
-    "💡 Topics/Civic Tech & Democracy.md",
-    "💡 Topics/Civic Technology.md",
+    "💡 Topics/DAOs.md",
+    "README.md",
+    "🔨 Tools/Adhocracy.md",
+    "👤 People/Glen Weyl.md",
     "🎓 Universities and University Programs/Harvard Democracy Renovation Lab.md",
-    "👤 People/Allison Duettmann.md",
-    "👥 Organizations & Companies/Alpha Chain.md",
-    "👥 Organizations & Companies/AI4Impact.md",
-    "👥 Organizations & Companies/Cohere.md",
-    "👥 Organizations & Companies/Citizens Foundation.md",
-    "👥 Organizations & Companies/Circles.md",
-    "👥 Organizations & Companies/Center for Research on Foundation Models (CRFM).md",
-    "👥 Organizations & Companies/Braver Angels.md",
-    "👥 Organizations & Companies/Bluesky.md",
-    "👥 Organizations & Companies/Berkeley RDI.md",
-    "👥 Organizations & Companies/Anthropic.md",
-    "💡 Topics/Web3.md",
-    "💡 Topics/Urban Development.md",
-    "💡 Topics/Plurality.md",
-    "💡 Topics/Equitable Governance.md",
-    "💡 Topics/Constructive Communication.md",
-    "💡 Topics/Contextualization engines.md",
+    "🎓 University Programs/University of Notre Dame.md",
+    "🎓 University Programs/University of Colorado.md",
+    "🎓 University Programs/University of Chicago.md",
+    "🎓 University Programs/University of California, Berkeley.md",
+    "🎓 University Programs/Stanford University.md",
+    "🎓 University Programs/Santa Fe Institute.md",
+    "🎓 University Programs/Northeastern University.md",
+    "🎓 University Programs/Berkman Klein Center for Internet & Society.md",
+    "🎓 University Programs/MIT Media Lab.md",
+    "🎓 University Programs/Harvard Democracy Renovation Lab.md",
+    "🎓 University Programs",
+    "🎓 Universities and University Programs/Institute for the Cooperative Digital Economy.md",
+    "🎓 Universities and University Programs/Berkman Klein Center for Internet & Society.md",
+    "🎓 Universities and University Programs/Stanford University.md",
+    "🎓 Universities and University Programs/University of California, Berkeley.md",
+    "🎓 Universities and University Programs/University of Chicago.md",
+    "🔨 Tools/Clr.fund.md",
+    "🔨 Tools/CultureStake_Furtherfield.md",
+    "🔨 Tools/Eden_Network.md",
+    "🔨 Tools/Ğ1_Currency.md",
+    "🔨 Tools/Goldfinch.md",
+    "🔨 Tools/Polis.md",
+    "graph-tag-colors.css",
     "🔨 Tools/Liquid",
     "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/REQUESTED",
     "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/INSTALLER",
@@ -199,7 +207,6 @@
     "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__/function_definition.cpython-39.pyc",
     "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__/__init__.cpython-39.pyc",
     "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__",
-    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/function_parameters.cpython-39.pyc",
-    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/function_definition.cpython-39.pyc"
+    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/function_parameters.cpython-39.pyc"
   ]
 }

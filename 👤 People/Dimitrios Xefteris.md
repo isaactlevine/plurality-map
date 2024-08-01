@@ -7,7 +7,7 @@ tags:
 
 | Org                | Role                                  |
 | ------------------ | ------------------------------------- |
-| University of Cyprus | Associate Professor, Department of Economics |
+| [[University of Cyprus]] | Associate Professor, Department of Economics |
 
 ### Works On
 
@@ -15,6 +15,10 @@ tags:
 - Game Theory
 - Microeconomic Theory
 - Economic Behavior
+
+[[Voting Innovation]]
+[[Game Design]]
+[[Political Economy]]
 
 ### Related Projects
 
@@ -24,4 +28,3 @@ tags:
 - **Experimental Economics**: Laboratory investigations into vote trading, stress-testing voting rules, and Pandora's rules.
 
 ### Links
-

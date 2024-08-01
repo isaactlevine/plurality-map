@@ -10,6 +10,9 @@ Arguman.org is an open-source argument analysis and mapping platform. It allows 
 
 The platform is implemented using Python and Django, and it offers various installation methods including Docker, Vagrant, and manual installation. Users can contribute to the project by following the contributing guidelines provided in the documentation.
 
+[[Debate Mapping]]
+[[Constructive Communication]]
+
 ### Developer
 
 - Arguman Community

@@ -13,6 +13,9 @@ tags:
 
 The Optimism Collective is a new model for properly rewarding those who create or sustain public goods.
 
+[[Public Goods Funding]]
+[[Web3]]
+
 ### Developer
 
 

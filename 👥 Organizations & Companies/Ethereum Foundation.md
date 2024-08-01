@@ -17,6 +17,10 @@ The Ethereum Foundation (EF) is a non-profit organization that supports the Ethe
 - Open-source collaboration
 - Community-driven growth
 
+- [[Web3]]
+- [[DAOs]]
+- [[Public Goods Funding]]
+
 ### Leadership
 - Aya Miyaguchi - Executive Director
 - [[Vitalik Buterin]] - Co-founder of Ethereum

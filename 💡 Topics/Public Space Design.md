@@ -1,7 +1,3 @@
 #topic 
 
-### Orgs
-
-
-### People
-
+See: [[Plural Urbanism]]

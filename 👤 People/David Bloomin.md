@@ -5,15 +5,18 @@ tags:
 ---
 #person
 
-| Org                  | Role                               |
-| -------------------- | ---------------------------------- |
-| [[MettaAI]]              | AI Researcher                      |
-| [[Plurality Institute]]            | Co-Founder                 |
+| Org                         | Role                               |
+| --------------------------- | ---------------------------------- |
+| [[MettaAI]]                 | AI Researcher                      |
+| [[Plurality Institute]]     | Co-Founder                         |
 
 ### Works On
 
 - Multi-Agent Reinforcement Learning: Focused on developing AI systems in socially complex game environments at [[MettaAI]]
 - [[Plurality Institute]]: An interdisciplinary initiative aimed at creating the field of plurality studies to explore and scale human cooperation.
+
+[[AI For Democracy]]
+[[Plurality]]
 
 ### Related Projects
 

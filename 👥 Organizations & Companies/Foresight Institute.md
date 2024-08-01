@@ -8,6 +8,9 @@ tags:
 ### Works On
 Foresight Institute supports the beneficial development of high-impact technologies, focusing on early-stage and interdisciplinary fields such as nanotechnology, biotechnology, neurotechnology, computation, and space.
 
+- [[Human-Centered Artificial Intelligence (HAI)]]
+- [[Web3]]
+
 ### Leadership
 - President & CEO: [[Allison Duettmann]]
 - COO & Existential Hope Director: [[Beatrice Erkers]]

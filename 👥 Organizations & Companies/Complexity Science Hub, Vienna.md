@@ -14,25 +14,28 @@ tags:
 
 CSH addresses global issues such as pandemics, supply chain disruptions, climate change, and social complexity by leveraging extensive data and advanced complexity science methods.
 
+- [[Human-Centered Artificial Intelligence (HAI)]]
+- [[Plural Urbanism]]
+
 ### Leadership
 
 ### Funder
 - Austrian Science Fund (FWF)
 - Austrian Research Promotion Agency (FFG)
 - EU Horizon Europe
-- Austrian Federal Economic Chamber
+- [[Austrian Federal Economic Chamber]]
 
 ### Affiliates
-- Austrian Institute of Technology
+- [[Austrian Institute of Technology]]
 - BOKU (University of Natural Resources and Life Sciences, Vienna)
-- Central European University
+- [[Central European University]]
 - Graz University of Technology
 - Medical University of Vienna
 - University for Continuing Education Krems
 - VetMedUni Vienna
 - Vienna University of Economics and Business
 - Vienna University of Technology
-- Austrian Federal Economic Chamber
+- [[Austrian Federal Economic Chamber]]
 
 ### Related Events
 

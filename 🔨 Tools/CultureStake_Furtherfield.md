@@ -11,7 +11,10 @@ tags:
 
 ### Description
 
-CultureStake’s playful Quadratic Voting app allows you to vote on the types of cultural activity you would like to see in your locality. It democratizes arts commissioning by providing communities and artists with a radical tool to make cultural decisions together.
+CultureStake's playful Quadratic Voting app allows you to vote on the types of cultural activity you would like to see in your locality. It democratizes arts commissioning by providing communities and artists with a radical tool to make cultural decisions together.
+
+[[Quadratic Voting]]
+[[Participatory Democracy]]
+[[Public Space Design]]
 
 ### Developer
-

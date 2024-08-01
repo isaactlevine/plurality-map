@@ -10,6 +10,10 @@ tags:
 - Platforms like Fora for community engagement and amplifying underheard voices.
 - AI-assisted sensemaking tools for analyzing community conversations.
 
+- [[Constructive Communication]]
+- [[Deliberation and Sense Making]]
+- [[AI For Democracy]]
+
 ### Leadership
 - [[Deb Roy]] - CEO & Co-Founder
 - Eugene Yi - Director & Co-Founder
@@ -17,7 +21,7 @@ tags:
 ### Funder
 - Reid Hoffman
 - Aphorism Foundation
-- Project Liberty
+- [[Project Liberty]]
 - Quadrivium
 - Knight Foundation
 - The Tow Foundation
@@ -26,7 +30,7 @@ tags:
 - Carnegie Corporation of New York
 
 ### Affiliates
-- MIT Center for Constructive Communication
+- [[Mit Center For Constructive Communication]]
 - Google Jigsaw
 
 ### Related Events

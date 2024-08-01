@@ -12,6 +12,7 @@ tags:
 - Collaboration with public administrations to design, maintain, and improve digital public products
 - Implementation and participation in public products by public administrations
 - Guidance on governance, codebase stewardship, financial modeling, technical and product steering processes, community growth, and broader awareness
+- [[Collaborative Civic Tech]]
 
 ### Leadership
 

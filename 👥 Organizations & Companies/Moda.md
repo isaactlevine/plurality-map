@@ -8,11 +8,11 @@ tags:
 ### Works On
 The Ministry of Digital Affairs (moda) coordinates Taiwan's digital development across industry, cybersecurity, information, internet, and media. It focuses on enhancing digital infrastructure, promoting cybersecurity, supporting digital innovation, and advancing digital democracy.
 
-[[Deliberation and Sense Making]]
-[[Governance]]
-[[Government]]
-[[Quadratic Funding]]
-[[Polis]]
+- [[Deliberation and Sense Making]]
+- [[Data Privacy]]
+- [[Digital Identity]]
+- [[Participatory Democracy]]
+- [[Collaborative Civic Tech]]
 
 ### Leadership
 - Minister: Yennun Huang
@@ -27,7 +27,7 @@ The Ministry of Digital Affairs (moda) coordinates Taiwan's digital development 
 - Administration for Cyber Security (ACS)
 
 ### Related Events
-- Alignment Assemblies project with the Collective Intelligence Project (CIP)
+- Alignment Assemblies project with the [[Collective Intelligence Project]]
 - Various digital democracy and AI-related initiatives
 
 ### Links

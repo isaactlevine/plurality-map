@@ -7,12 +7,15 @@ tags:
 
 | Org                                      | Role                                               |
 | ---------------------------------------- | -------------------------------------------------- |
-| Harvard Getting-Plurality Research Group           | Member          |
+| Harvard [[GETTING Plurality]] Research Group           | Member          |
 
 ### Works On
 
+
+- [[Web3]]
+- [[DAOs]]
 - [[Decentralized Society (DeSoc)]]
-- Decentralization in AI governance
+- [[Soul Bound Token (SBT)]]
 
 ### Related Projects
 

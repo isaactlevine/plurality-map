@@ -8,8 +8,12 @@ tags:
 ### Works On
 Bridging the partisan divide through community gatherings, debates, and grassroots leadership. Promotes understanding and cooperation among Americans of differing political views.
 
+[[Cultural Bridging]]
+[[Deliberation and Sense Making]]
+[[Online Bridging]]
+
 ### Leadership
-Co-founders: [[David Blankenhorn]], [[Bill Doherty]], and [[David Lapp]]
+Co-founders: [[Bill Doherty]], David Blankenhorn, and David Lapp
 
 ### Funder
 

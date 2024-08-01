@@ -9,7 +9,8 @@ tags:
 - Technical foundations for foundation models (data, systems, architectures, training, adaptation, inference, interpretability, evaluation)
 - Beneficial applications in domains like law, music, robotics, and biomedicine
 - Societal impact of foundation models (transparency, supply chains, openness, copyright, privacy, systemic risk)
-- AI policy to support evidence-driven governance
+- AI policy to support evidence-driven governanc
+- [[Human-Centered Artificial Intelligence (HAI)]]
 
 ### Leadership
 - [[Percy Liang]] (Director, Computer Science)

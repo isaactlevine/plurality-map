@@ -1,7 +1,4 @@
-#topic #topic/keystone
+#topic 
 
-### Orgs
-
-
-### People
+See [[Quadratic Funding]]
 

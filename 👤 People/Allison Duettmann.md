@@ -7,7 +7,7 @@ tags:
 
 | Org                          | Role                        |
 | ---------------------------- | --------------------------- |
-| Foresight Institute          | President & CEO             |
+| [[Foresight Institute]]      | President & CEO             |
 | Biomarkers of Aging Consortium | Executive Steering Committee |
 | The Longevity Prize          | Co-Initiator                |
 | Existentialhope.com          | Founder                     |

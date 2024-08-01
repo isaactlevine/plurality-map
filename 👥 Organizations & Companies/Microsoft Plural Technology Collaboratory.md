@@ -12,6 +12,10 @@ The Plural Technology Collaboratory (PTC) focuses on advancing Plural Technologi
 [[Plurality]]
 [[Security]]
 [[Computer Science]]
+[[Decentralized Society (DeSoc)]]
+
+- [[Web3]]
+- [[Participatory Democracy]]
 
 ### Leadership
 - Research Lead: [[Glen Weyl]]
@@ -20,9 +24,9 @@ The Plural Technology Collaboratory (PTC) focuses on advancing Plural Technologi
 ### Funder
 
 ### Affiliates
-- Microsoft
-- Harvard Edmond & Lily Safra Center for Ethics
-- University of California Berkeley Center for Responsible Decentralized Intelligence
+- [[Microsoft]]
+- [[Harvard Edmond & Lily Safra Center for Ethics]]
+- [[University of California, Berkeley]] Center for Responsible Decentralized Intelligence
 
 ### Related Events
 - Research Forum

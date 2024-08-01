@@ -7,12 +7,13 @@ tags:
 
 ### Works On
 - Decentralization and Decentralized Intelligence
-- Blockchain Technologies
-- Decentralized Finance (DeFi)
+- [[Blockchain Technologies]]
+- [[Decentralized Finance (DeFi)]]
 - Creator Economy
 - Data Sovereignty
 - Autonomous Agents and Organizations
-- AI Safety and Responsible Innovation
+- [[AI Safety and Responsible Innovation]]
+- [[Web3]]
 
 ### Leadership
 - [[Dawn Song]] (Co-Director, Security & Privacy, Blockchain, ML)
@@ -22,6 +23,7 @@ tags:
 ### Funder
 
 ### Affiliates
+- [[University of California, Berkeley]]
 - Berkeley Engineering
 - Berkeley Haas
 - Berkeley Law

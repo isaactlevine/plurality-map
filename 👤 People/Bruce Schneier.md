@@ -24,7 +24,7 @@ tags:
 [[Digital Rights]]
 [[Skein Hash Function Family]]
 [[Twofish Encryption Algorithm]]
-
+[[Data Privacy]]
 
 ### Related Projects
 

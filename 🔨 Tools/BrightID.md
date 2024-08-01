@@ -11,7 +11,8 @@ tags:
 
 ### Description
 
-BrightID is a social identity network that allows people to prove to applications that they aren’t using multiple accounts. It solves the unique identity problem through the creation and analysis of a social graph.
+BrightID is a social identity network that allows people to prove to applications that they aren't using multiple accounts. It solves the unique identity problem through the creation and analysis of a social graph.
+
+[[Digital Identity]]
 
 ### Developer
-

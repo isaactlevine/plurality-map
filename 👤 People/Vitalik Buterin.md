@@ -7,17 +7,17 @@ tags:
 
 | Org                | Role                        |
 | ------------------ | --------------------------- |
-| [[Ethereum]]           | Co-Founder                  |
+| [[Ethereum Foundation]] | Co-Founder                  |
 
 ### Works On
 
 - Digital contracts
-- Digital currencies
+- [[Digital Currencies]]
 - Game theory
-- DAOs
-- Decentralized Society (DeSoc)
-- Digital Currencies
-- Quadratic Voting
+- [[DAOs]]
+- [[Decentralized Society (DeSoc)]]
+- [[Quadratic Voting]]
+- [[Web3]]
 
 ### Related Projects
 

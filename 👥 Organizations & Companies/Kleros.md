@@ -11,6 +11,10 @@ tags:
 - Implementing blockchain and game theory for dispute resolution
 - Providing arbitration services across various industries such as small claims, insurance, e-commerce, finance, freelancing, token listing, content moderation, and intellectual property
 
+- [[Web3]]
+- [[DAOs]]
+- [[Decentralized Society (DeSoc)]]
+
 ### Leadership
 
 ### Funder

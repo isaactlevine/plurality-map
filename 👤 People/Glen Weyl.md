@@ -14,7 +14,7 @@ tags:
 
 ### Works On
 
-Glen Weyl is a leading figure in the intersection of technology, economics, and social innovation. He is the Research Lead at Microsoft Research's Plural Technology Collaboratory, where he explores the development and application of plural technologies. As the founder of the RadicalxChange Foundation and the Plurality Institute, Weyl is promoting innovative democratic and economic models, such as quadratic voting and quadratic funding. His work emphasizes creating social technologies that support diverse and inclusive communities, aiming to reform traditional systems of property, voting, and governance.
+Glen Weyl is a leading figure in the intersection of technology, economics, and social innovation. He is the Research Lead at Microsoft Research's Plural Technology Collaboratory, where he explores the development and application of plural technologies. As the founder of the [[RadicalxChange]] Foundation and the [[Plurality Institute]], Weyl is promoting innovative democratic and economic models, such as quadratic voting and quadratic funding. His work emphasizes creating social technologies that support diverse and inclusive communities, aiming to reform traditional systems of property, voting, and governance.
 
 [[Plural Technologies]]
 [[Quadratic Voting]]
@@ -23,7 +23,10 @@ Glen Weyl is a leading figure in the intersection of technology, economics, and 
 [[Economic Models]]
 [[Social Technologies]]
 [[Economics]]
-[[Identity]]
+[[Digital Identity]]
+[[Plurality]]
+[[Participatory Democracy]]
+[[Public Goods Funding]]
 
 ### Related Projects
 
@@ -34,4 +37,3 @@ Glen Weyl is a leading figure in the intersection of technology, economics, and 
 
 - [Twitter](https://twitter.com/glenweyl)
 - [Personal Website](https://glenweyl.com)
-

@@ -15,12 +15,15 @@ tags:
 
 Shrey Jain's work focuses on privacy, security, and AI within the Special Projects team at Microsoft Research and the Health and Life Sciences team. His research addresses the contextual confidence and generative AI, privacy, security, and the intersection of AI and democracy. 
 
-[[Privacy]]
-[[Trust]]
-[[Decentralized Identity]]
-[[Plural Publics]]
-[[Zero Knowledge]]
-[[Generative AI]]
+- [[Privacy]]
+- [[Trust]]
+- [[Decentralized Identity]]
+- [[Plural Publics]]
+- [[Zero Knowledge]]
+- [[Generative AI]]
+- [[AI For Democracy]]
+- [[Data Privacy]]
+- [[Data Dignity]]
 
 ### Related Projects
 

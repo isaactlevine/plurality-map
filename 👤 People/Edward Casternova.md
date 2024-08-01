@@ -7,9 +7,9 @@ tags:
 
 | Org                                    | Role                                                       |
 | -------------------------------------- | ---------------------------------------------------------- |
-| Indiana University Bloomington         | Professor of Media                                         |
-| California State University, Fullerton | Associate Professor of Economics                           |
-| University of Rochester                | Associate Professor of Public Policy and Political Science |
+| [[Indiana University Bloomington]]     | Professor of Media                                         |
+| [[California State University, Fullerton]] | Associate Professor of Economics                           |
+| [[University of Rochester]]            | Associate Professor of Public Policy and Political Science |
 
 ### Works On
 

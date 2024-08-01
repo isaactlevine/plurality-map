@@ -7,14 +7,18 @@ tags:
 
 | Org                      | Role                                 |
 | ------------------------ | ------------------------------------ |
-| New_ Public              | Co-Director                          |
+| [[New Public]]           | Co-Director                          |
 | Meta (Facebook)          | Head of Community Partnerships, New Product Experimentation |
-| Stanford University      | Tech Ethics and Policy Mentor        |
+| [[Stanford University]]  | Tech Ethics and Policy Mentor        |
 
 ### Works On
 
-- Co-founded [[New_ Public]] to create new tools and platforms that support community entrepreneurs and promote community connectedness.
+- Co-founded [[New Public]] to create new tools and platforms that support community entrepreneurs and promote community connectedness.
 - Established Meta's Community Partnerships team and the New Product Experimentation team, focusing on building products that foster community leadership.
+
+[[Collaborative Civic Tech]]
+[[Public Space Design]]
+[[Tech Ethics]]
 
 ### Related Projects
 

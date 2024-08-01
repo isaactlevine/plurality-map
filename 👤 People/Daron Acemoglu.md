@@ -7,7 +7,7 @@ tags:
 
 | Org                                | Role                                   |
 | ---------------------------------- | -------------------------------------- |
-| Massachusetts Institute of Technology | Institute Professor                  |
+| [[Massachusetts Institute of Technology]] | Institute Professor                  |
 | National Bureau of Economic Research | Research Associate                    |
 
 ### Works On
@@ -16,6 +16,11 @@ tags:
 - **Economic Development and Growth**: Studies focused on the factors influencing economic growth and development, particularly in the context of institutions.
 - **Income and Wage Inequality**: Research on the causes and consequences of economic inequality.
 - **Labor Economics**: Work on labor market dynamics, including the effects of policies like minimum wage and unemployment benefits.
+
+[[Political Economy]]
+[[Economic Development]]
+[[Income Inequality]]
+[[Labor Economics]]
 
 ### Related Projects
 

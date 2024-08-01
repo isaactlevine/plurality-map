@@ -7,13 +7,15 @@ tags:
 
 | Org                         | Role                                 |
 | --------------------------- | ------------------------------------ |
-| Michigan State University   | Professor of Economics               |
+| [[Michigan State University]]   | Professor of Economics               |
 
 ### Works On
 
 - Microeconomic theory
 - Political economy
 - Collective choice
+- [[Voting Innovation]]
+- [[Participatory Democracy]]
 
 ### Related Projects
 

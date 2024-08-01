@@ -7,10 +7,10 @@ tags:
 
 ### Works On
 - AT Protocol Development -- a federated protocol for large-scale distributed social applications
-- Federated Social Networking
-- Algorithmic Choice
-- Account Portability
-- Composable Moderation
+- [[Federated Social Networking]]
+- [[Algorithmic Choice]]
+- [[Account Portability]]
+- [[Composable Moderation]]
 
 ### Leadership
 - [[Jay Graber]] (CEO)

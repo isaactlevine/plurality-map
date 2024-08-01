@@ -13,24 +13,23 @@ tags:
 | [[Collective Intelligence Project]]  | Senior Research Fellow         |
 | [[Foundation for Public Code]]       | Advisor, Strategic Council     |
 | [[RadicalxChange]]                   | Member, Board of Directors     |
-| [[Digital Future Society]]           | Member, Board of Trustees      |
-| [[The Governance Lab]]               | Global Advisory Council Member |
+| Digital Future Society               | Member, Board of Trustees      |
+| [[Gov Lab]]                          | Global Advisory Council Member |
 | National Institute of Cyber Security | Chairperson of the Board       |
 
 ### Works On
-Audrey Tang is a Taiwanese politician and software programmer known for their work in digital democracy, open-source software, and civic tech movements.
+[[Audrey Tang]] is a Taiwanese politician and software programmer known for their work in digital democracy, open-source software, and civic tech movements.
 
-- Digital Democracy
-- g0v
+- [[Participatory Democracy]]
+- [[g0v]]
 - vTaiwan
 - COVID-19 Response in Taiwan
-- Ministry of Digital Affairs (MODA)
-- Plurality
+- [[Moda]]
+- [[Plurality]]
 - Open Source and Open Data
 - Technological Innovation for Social Good
-- Collaborative Governance
+- [[Collaborative Civic Tech]]
 - Decentralized and Distributed Systems
 
 ### Links
 - [Twitter](https://twitter.com/audreyt)
-

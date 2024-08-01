@@ -10,6 +10,10 @@ Loomio is decision-making software designed to assist groups with collaborative,
 
 Loomio's organizational structure is based on groups, which can be public or private. Within these groups, members create discussions and proposals. Proposals can solicit feedback through options like agree, disagree, abstain, or block. Loomio's interface supports mobile access and other enhancements.
 
+[[Participatory Democracy]]
+[[Deliberation and Sense Making]]
+[[Constructive Communication]]
+
 ### Developer
 
 - Loomio Cooperative Limited, Wellington, New Zealand

@@ -13,4 +13,8 @@ tags:
 
 Clr.fund is a protocol for Quadratic Funding of public goods projects in the Ethereum ecosystem. Using a combination of exclusive cryptography and mechanism design it aims to prevent Sybil-attacks, bribery, and collusion in the Quadratic Funding process.
 
+[[Quadratic Funding]]
+[[Public Goods Funding]]
+[[Web3]]
+
 ### Developer
