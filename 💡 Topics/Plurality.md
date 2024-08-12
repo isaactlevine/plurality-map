@@ -5,14 +5,30 @@ tags:
 #topic
 
 ### Description
-Plurality (⿻) is a socio-technical concept advocating for the use of technology to empower collaboration and manage diversity in society. It comprises three core components:
-1. Descriptive: Recognizes society as composed of diverse, intersecting groups
-2. Normative: Emphasizes diversity as a driver of social progress
-3. Prescriptive: Advocates for technology design to facilitate collaboration across differences
 
-Plurality aims to create a richer, pluralistic ecosystem called "[[Decentralized Society (DeSoc)]]", where individuals and communities co-create plural network goods and intelligences at various scales.
+Plurality (⿻) proposes systems and technologies designed to facilitate collaboration across social differences, aiming to harness collective intelligence and promote social progress. This socio-technological framework recognizes society as a complex network of diverse, intersecting affiliations and seeks to leverage this understanding to create more effective collaborative structures.
+
+As a concept it is:
+
+1. **Descriptive**:
+    - Emphasizes that the social world is a complex web of diverse and overlapping groups and affiliations.
+2. **Normative**:
+    - Views diversity as the driving force behind social progress.
+    - Suggests successful societies harness the energy of their diverse populations for positive change.
+3. **Prescriptive**:
+    - Proposes that digital technology should support collaboration and understanding across social differences.
+    - Suggests technology should create engines for harnessing the potential of diversity.
+
+Plurality can be applied in various aspects of society:
+
+- **Property**: Challenges traditional notions of private property, suggesting alternative models like partial common ownership.
+- **Identity**: Advocates for identity systems recognizing the multifaceted nature of individuals and their affiliations.
+- **Voting**: Proposes innovative mechanisms like quadratic voting and liquid democracy.
+- **Commerce**: Encourages economic models supporting collaborative production and consumption.
 
 ### Key Resources
+
+[PLURALITY: The Future of Collaborative Technology and Democracy](https://www.plurality.net/)
 
 ### People
 - [[Glen Weyl]]

@@ -12,7 +12,7 @@ You can browse by viewing files in the sidebar, using the global graph, or searc
 - [[Plurality Institute]]
 - [[Plurality]]
 - [[Glen Weyl]]
-- [[Adhocracy]]
+- [[Audrey Tang]]
 
 Feel free to start with any of these notes and follow the links that pique your interest.
 

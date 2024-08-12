@@ -9,7 +9,7 @@ tags:
 | [[Collective Intelligence Project]] | Co-Founder, Research Director               |
 
 ### Works On
-Saffron Huang is a technologist, researcher and writer working on collective intellegence and AI governance. 
+Saffron Huang is a technologist, researcher and writer working on collective intelligence and AI governance. 
 
 - [[Collective Intelligence]]
 - [[Plurality]]
