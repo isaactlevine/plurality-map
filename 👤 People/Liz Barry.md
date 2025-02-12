@@ -2,7 +2,7 @@
 
 | Org                                 | Role                     |
 | ----------------------------------- | ------------------------ |
-| [[Computational Democracy Project]] | Director of Partnerships |
+| [[Computational Democracy Project]] | Head of Partnerships |
 | [[MetaGov]]                         | Executive Director       |
 
 ### Works On
