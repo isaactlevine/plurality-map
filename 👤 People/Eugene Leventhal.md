@@ -8,6 +8,7 @@ tags:
 | Org                               | Role                           |
 | --------------------------------- | ------------------------------ |
 | [[MetaGov]]                       | Interim Executive Director     |
+| [[MetaGov]]                       | Research Director              |
 | [[Smart Contract Research Forum]] | Executive Director             |
 | [[Carnegie Mellon University]]    | Project & Partnerships Manager |
 | [[eduDAO]]                        | CEO, Founder                   |
