@@ -18,7 +18,8 @@ Metagov focuses on cultivating tools, practices, and communities that enable sel
 - Board: [[Primavera Di Philipe]], Harvard / CNRS
 - Board: B Cavello, [[The Aspen Institute]]
 - Board: Joshua Tan, Oxford
-- Executive Director: [[Eugene Leventhal]]
+- Research Director: [[Eugene Leventhal]]
+- Executive Director: [[Liz Barry]]
 
 ### Funder
 Supported by various foundations and organizations, including the Henry Luce Foundation, [[Gitcoin]], and the [[Ethereum Foundation]].
